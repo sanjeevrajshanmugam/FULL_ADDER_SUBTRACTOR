@@ -47,7 +47,7 @@ Borrow out = A'Bin + A'B + BBin
 ![DE E-4 subtractor truth table](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/33d8ba16-9169-40b0-8696-3bb8e5c3a0b7)
 
 **Procedure**
-```
+
 1. Open Quartus Software   
 2. Create a New Project  
 3. Create a New Design File  
@@ -57,7 +57,7 @@ Borrow out = A'Bin + A'B + BBin
 7. Generate Timing Diagram  
 8. Simulate Different Input Combinations  
 9. Save Your Work  
-```
+
 
 **Program:**
 
